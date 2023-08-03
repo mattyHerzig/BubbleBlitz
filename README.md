@@ -1,5 +1,5 @@
 # BubbleBlitz
-BubbleBlitz is a simple top-down shooter game made with Java in BlueJ.
+BubbleBlitz is a simple top-down shooter game made with Java in BlueJ. It was done for a high school programming course.
 
 To play the game, go to [releases](https://github.com/mattyHerzig/BubbleBlitz/releases).
 
